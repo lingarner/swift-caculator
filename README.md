@@ -6,7 +6,7 @@ The purpose of this software is to help me learn how to understand basic syntaxi
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dqWTXWFE-X8)
 
 # Development Environment
 
@@ -23,6 +23,5 @@ The purpose of this software is to help me learn how to understand basic syntaxi
 
 # Future Work
 
-- Item 1
-- Item 2
-- Item 3
+- Allow for more user error
+- Allow for the user to enter fill equations in one input (ie. 2+2)

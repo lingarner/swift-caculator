@@ -3,9 +3,6 @@
 // import necessary software
 import Foundation
 
-// global result
-var starting: Double = 0.0
-
 func main(){
     
     // Delcaring user inputs so they are in the scope of a singular if let statement
@@ -54,13 +51,8 @@ func main(){
 
                 };
 
-                if let result = divNumbers(a, b){
-                    print("result: \(result)")
-
-                };
-
                 case "/":
-                if let result = addNumbers(a, b){
+                if let result = divNumbers(a, b){
                     print("result: \(result)")
 
                 };
