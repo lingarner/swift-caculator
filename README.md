@@ -1,6 +1,6 @@
 # Overview
 
-This is a ssimple calculator program that can handle friendly user inputs.
+This is a simple calculator program that can handle friendly user inputs.
 
 The purpose of this software is to help me learn how to understand basic syntaxical function of the programming language: Swift.
 
@@ -10,20 +10,18 @@ The purpose of this software is to help me learn how to understand basic syntaxi
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- VS Code
+- Swift Language Support for Visual Studio Code (a Swift VS Code Extension)
 
-{Describe the programming language that you used and any libraries.}
+- Language used: Swift
+- Import the <b>Foundation</b> library
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Swift Documentation](https://www.swift.org/)
-- [Web Site Name](http://url.link.goes.here)
+- [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Item 1
 - Item 2
